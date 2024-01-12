@@ -1,0 +1,14 @@
+INSERT INTO info(name, studentid, dob, address, gender) VALUES
+("John Brown", 111, "01-01-1981", "Arlington, VA", "male"),
+("Harriet Stowe", 222, "01-02-1981", "Litchfield, CT", "female"),
+("US Grant", 333, "01-03-1981", "Springfield, IL", "male");
+
+
+INSERT INTO scores(studentid, course_code, course_name, score) VALUES
+(111, "CHEM101", "Chemistry 101", 77.2),
+(111, "PHYS101", "Physics 101", 90.5),
+(111, "MATH101", "Mathematics 101", 45.2),
+(111, "CHEM101", "Chemistry 101", 65.5),
+(111, "PHYS101", "Physics 101", 70.2),
+(111, "CHEM101", "Chemistry 101", 40.0);
+

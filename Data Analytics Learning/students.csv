@@ -1,0 +1,9 @@
+id,name,age,gender,chem101,phys101,math101
+111,John,25,male,23.7,34.2,64.1
+222,Bob,30,male,67.5,76.2,89.1
+333,Kathy,45,female,81.0,91.8,98.8
+444,James,22,male,45.7,32.9,12.3
+555,Holly,28,female,23.7,,34.9
+666,Tim,26,male,33.7,78.1
+777,Mike,30,male,,87.5,98.1
+888,Marla,45,female,67.1,56.9
